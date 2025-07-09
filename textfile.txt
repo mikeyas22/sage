@@ -1,9 +1,11 @@
 windows command
 move
 copy
-
+mkdir
 
 
 Linux command
 mv
 cp
+ls
+cd
