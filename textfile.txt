@@ -1,0 +1,9 @@
+windows command
+move
+copy
+
+
+
+Linux command
+mv
+cp
